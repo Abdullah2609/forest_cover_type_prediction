@@ -41,4 +41,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn lightgbm
 ---
 
 **Author:** Abdullah Sakeeb   
-**Project:** Animal Classification Model with
